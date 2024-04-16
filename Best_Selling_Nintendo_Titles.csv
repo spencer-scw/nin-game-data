@@ -1,7 +1,7 @@
 Game,Console,Developer,Publisher,Release_Date,Sales
-Super Mario Bros. †,NES,Nintendo R&D4,Nintendo,"September 13, 1985",40240000
-Duck Hunt †,NES,Nintendo R&D1,Nintendo,"April 21, 1984",28310000
-Super Mario Bros. 3 †,NES,Nintendo R&D4,Nintendo,"October 23, 1988",18000000
+Super Mario Bros.,NES,Nintendo R&D4,Nintendo,"September 13, 1985",40240000
+Duck Hunt,NES,Nintendo R&D1,Nintendo,"April 21, 1984",28310000
+Super Mario Bros. 3,NES,Nintendo R&D4,Nintendo,"October 23, 1988",18000000
 Tetris,NES,Nintendo R&D1,Nintendo,November 1989,8000000
 Super Mario Bros. 2 (international version),NES,Nintendo R&D4,Nintendo,"October 9, 1988",7460000
 The Legend of Zelda,NES,Nintendo R&D4,Nintendo,"February 21, 1986",6510000
@@ -9,20 +9,20 @@ Dr. Mario,NES,Nintendo R&D1,Nintendo,"July 27, 1990",4850000
 Zelda II: The Adventure of Link,NES,Nintendo R&D4,Nintendo,"January 14, 1987",4380000
 Excitebike,NES,Nintendo R&D1,Nintendo,"November 30, 1984",4160000
 Golf,NES,Nintendo R&D1,Nintendo,"May 1, 1984",4010000
-Teenage Mutant Ninja Turtles †,NES,Konami,JP: KonamiNA: Ultra Games,"May 12, 1989",4000000
+Teenage Mutant Ninja Turtles,NES,Konami,JP: KonamiNA: Ultra Games,"May 12, 1989",4000000
 Dragon Quest III,NES,Chunsoft,Enix,"February 10, 1988",3895000
 Kung Fu,NES,Nintendo R&D1,Nintendo,"October 18, 1985",3500000
 Baseball,NES,Nintendo R&D1,Nintendo,"December 7, 1983",3200000
 Dragon Quest IV,NES,Chunsoft,Enix,"February 11, 1990",3180000
-World Class Track Meet †,NES,TRY Co.,Nintendo,"December 23, 1986",3080000
+World Class Track Meet,NES,TRY Co.,Nintendo,"December 23, 1986",3080000
 Punch-Out!!,NES,Nintendo R&D3,Nintendo,"September 18, 1987",3000000
-Metroid,NES,Nintendo R&D1[c],Nintendo,"August 6, 1986",2730000
+Metroid,NES,Nintendo R&D1,Nintendo,"August 6, 1986",2730000
 Super Mario Bros. 2 (Japanese version),NES,Nintendo R&D4,Nintendo,"June 3, 1986",2650000
 Dragon Quest II,NES,Chunsoft,Enix,"January 26, 1987",2550000
 Ice Hockey,NES,Nintendo R&D2,Nintendo,"January 21, 1988",2420000
 Pro Wrestling,NES,Nintendo R&D3,Nintendo,"October 13, 1986",2400000
 Mario Bros.,NES,Nintendo R&D1,Nintendo,"September 9, 1983",2280000
-Tennis,NES,Nintendo R&D1[d],Nintendo,"January 14, 1984",2170000
+Tennis,NES,Nintendo R&D1,Nintendo,"January 14, 1984",2170000
 Volleyball,NES,Nintendo R&D3,Nintendo,"July 21, 1986",2150000
 Mahjong,NES,Nintendo R&D1,Nintendo,"August 27, 1983",2140000
 R.C. Pro-Am,NES,Rare,Nintendo,February 1988,2140000
@@ -49,7 +49,7 @@ Mighty Bomb Jack,NES,Tecmo,Tecmo,"April 24, 1986",1500000
 Nintendo World Cup,NES,Technōs Japan,JP: Technōs JapanNA/EU: Nintendo,"May 18, 1990",1480000
 4 Nin Uchi Mahjong,NES,Hudson Soft,Nintendo,"November 2, 1984",1450000
 Final Fantasy III,NES,Square,Square,"April 27, 1990",1400000
-Gyromite †,NES,Nintendo R&D1,Nintendo,"August 13, 1985",1320000
+Gyromite,NES,Nintendo R&D1,Nintendo,"August 13, 1985",1320000
 Final Fantasy,NES,Square,Square,"December 18, 1987",1300000
 Pro Yakyū Family Stadium '87,NES,Namco,Namco,"December 22, 1987",1300000
 Hogan's Alley,NES,Nintendo R&D1,Nintendo,"June 12, 1984",1270000
@@ -77,25 +77,25 @@ Gradius,NES,Konami,Konami,"April 25, 1986",1000000
 Tiger Heli,NES,Micronics,JP: Pony CanyonNA/EU: Acclaim Entertainment,"December 5, 1986",1000000
 Metal Gear,NES,Konami,JP: KonamiNA: Ultra Games,"December 22, 1987",1000000
 NES Open Tournament Golf,NES,Nintendo R&D2,Nintendo,"September 20, 1991",1000000
-Super Mario World †,SNES,Nintendo EAD,Nintendo,"November 21, 1990",20610000
-Super Mario All-Stars †,SNES,Nintendo EAD,Nintendo,"July 14, 1993",10550000
-Donkey Kong Country †,SNES,Rare,Nintendo,"November 21, 1994",9300000
-Super Mario Kart †,SNES,Nintendo EAD,Nintendo,"August 27, 1992",8760000
-Street Fighter II: The World Warrior †,SNES,Capcom,Capcom,"June 10, 1992",6300000
-Donkey Kong Country 2: Diddy's Kong Quest †,SNES,Rare,Nintendo,"November 20, 1995",5150000
-The Legend of Zelda: A Link to the Past †,SNES,Nintendo EAD,Nintendo,"November 21, 1991",4610000
-Super Mario World 2: Yoshi's Island †,SNES,Nintendo EAD,Nintendo,"August 5, 1995",4120000
+Super Mario World,SNES,Nintendo EAD,Nintendo,"November 21, 1990",20610000
+Super Mario All-Stars,SNES,Nintendo EAD,Nintendo,"July 14, 1993",10550000
+Donkey Kong Country,SNES,Rare,Nintendo,"November 21, 1994",9300000
+Super Mario Kart,SNES,Nintendo EAD,Nintendo,"August 27, 1992",8760000
+Street Fighter II: The World Warrior,SNES,Capcom,Capcom,"June 10, 1992",6300000
+Donkey Kong Country 2: Diddy's Kong Quest,SNES,Rare,Nintendo,"November 20, 1995",5150000
+The Legend of Zelda: A Link to the Past,SNES,Nintendo EAD,Nintendo,"November 21, 1991",4610000
+Super Mario World 2: Yoshi's Island,SNES,Nintendo EAD,Nintendo,"August 5, 1995",4120000
 Street Fighter II Turbo,SNES,Capcom,Capcom,"July 11, 1993",4100000
-Star Fox †,SNES,Nintendo EADArgonaut Software,Nintendo,"February 21, 1993",4000000
+Star Fox,SNES,Nintendo EADArgonaut Software,Nintendo,"February 21, 1993",4000000
 Donkey Kong Country 3: Dixie Kong's Double Trouble!,SNES,Rare,Nintendo,"November 22, 1996",3510000
 Final Fantasy VI,SNES,Square,Square,"April 2, 1994",3420000
-Killer Instinct †,SNES,Rare,Nintendo,"August 30, 1995",3200000
+Killer Instinct,SNES,Rare,Nintendo,"August 30, 1995",3200000
 Dragon Quest VI,SNES,Heartbeat,Enix,"December 9, 1995",3200000
-F-Zero †,SNES,Nintendo EAD,Nintendo,"November 21, 1990",2850000
+F-Zero,SNES,Nintendo EAD,Nintendo,"November 21, 1990",2850000
 Dragon Quest V,SNES,Chunsoft,Enix,"September 27, 1992",2800000
 Chrono Trigger,SNES,Square,Square,"March 11, 1995",2500000
 Final Fantasy V,SNES,Square,Square,"December 6, 1992",2450000
-Mario Paint †,SNES,Nintendo R&D1,Nintendo,"July 14, 1992",2310000
+Mario Paint,SNES,Nintendo R&D1,Nintendo,"July 14, 1992",2310000
 Super Mario RPG,SNES,Square,Nintendo,"March 9, 1996",2140000
 Pilotwings,SNES,Nintendo EAD,Nintendo,"December 21, 1990",2000000
 Super Street Fighter II,SNES,Capcom,Capcom,"June 25, 1994",2000000
@@ -109,7 +109,7 @@ Mortal Kombat II,SNES,Sculptured Software,Acclaim Entertainment,"September 9, 19
 Romancing SaGa 2,SNES,Square,Square,"December 10, 1993",1490000
 Final Fight,SNES,Capcom,Capcom,"December 21, 1990",1480000
 Dragon Ball Z: Super Butōden,SNES,Tose,Bandai,"March 20, 1993",1450000
-Kirby Super Star †,SNES,HAL Laboratory,Nintendo,"March 21, 1996",1440000
+Kirby Super Star,SNES,HAL Laboratory,Nintendo,"March 21, 1996",1440000
 Super Metroid,SNES,Nintendo R&D1Intelligent Systems,Nintendo,"March 19, 1994",1420000
 Dragon Quest III,SNES,Heartbeat,Enix,"December 6, 1996",1400000
 Romancing SaGa,SNES,Square,Square,"January 28, 1992",1320000
@@ -131,37 +131,37 @@ Tetris 2,SNES,Bullet-Proof Software,Nintendo,"July 8, 1994",1000000
 Space Invaders: The Original Game,SNES,Taito,Taito,"March 25, 1994",1000000
 Super Star Wars,SNES,Sculptured SoftwareLucasArts,JVC Musical Industries,"November 1, 1992",1000000
 Super Bomberman 2,SNES,Produce!,Hudson Soft,"April 28, 1994",1000000
-Super Mario 64 †,N64,Nintendo EAD,Nintendo,"June 23, 1996",11910000
-Mario Kart 64 †,N64,Nintendo EAD,Nintendo,"December 14, 1996",9870000
-GoldenEye 007 †,N64,Rare,Nintendo,"August 25, 1997",8090000
-The Legend of Zelda: Ocarina of Time †,N64,Nintendo EAD,Nintendo,"November 21, 1998",7600000
+Super Mario 64,N64,Nintendo EAD,Nintendo,"June 23, 1996",11910000
+Mario Kart 64,N64,Nintendo EAD,Nintendo,"December 14, 1996",9870000
+GoldenEye 007,N64,Rare,Nintendo,"August 25, 1997",8090000
+The Legend of Zelda: Ocarina of Time,N64,Nintendo EAD,Nintendo,"November 21, 1998",7600000
 Super Smash Bros.,N64,HAL Laboratory,Nintendo,"January 21, 1999",5550000
-Pokémon Stadium †,N64,Nintendo EAD,Nintendo,"April 30, 1999",5460000
-Donkey Kong 64 †,N64,Rare,Nintendo,"November 22, 1999",5270000
+Pokémon Stadium,N64,Nintendo EAD,Nintendo,"April 30, 1999",5460000
+Donkey Kong 64,N64,Rare,Nintendo,"November 22, 1999",5270000
 Diddy Kong Racing,N64,Rare,Rare,"November 14, 1997",4880000
 Star Fox 64,N64,Nintendo EAD,Nintendo,"April 27, 1997",4000000
-Banjo-Kazooie †,N64,Rare,Nintendo,"June 29, 1998",3650000
-Pokémon Snap †,N64,HAL LaboratoryPax Softonica,Nintendo,"March 21, 1999",3630000
+Banjo-Kazooie,N64,Rare,Nintendo,"June 29, 1998",3650000
+Pokémon Snap,N64,HAL LaboratoryPax Softonica,Nintendo,"March 21, 1999",3630000
 The Legend of Zelda: Majora's Mask,N64,Nintendo EAD,Nintendo,"April 27, 2000",3360000
-Star Wars Episode I: Racer †,N64,LucasArts,Nintendo,"April 30, 1999",3100000
-Wave Race 64 †,N64,Nintendo EAD,Nintendo,"September 27, 1996",2940000
+Star Wars Episode I: Racer,N64,LucasArts,Nintendo,"April 30, 1999",3100000
+Wave Race 64,N64,Nintendo EAD,Nintendo,"September 27, 1996",2940000
 Yoshi's Story,N64,Nintendo EAD,Nintendo,"December 21, 1997",2850000
 Mario Party,N64,Hudson Soft,Nintendo,"December 18, 1998",2700000
-Star Wars: Shadows of the Empire †,N64,LucasArts,Nintendo,"December 3, 1996",2600000
+Star Wars: Shadows of the Empire,N64,LucasArts,Nintendo,"December 3, 1996",2600000
 Pokémon Stadium 2,N64,Nintendo EAD,Nintendo,"December 14, 2000",2540000
-Perfect Dark †,N64,Rare,Rare,"May 22, 2000",2520000
+Perfect Dark,N64,Rare,Rare,"May 22, 2000",2520000
 Mario Party 2,N64,Hudson Soft,Nintendo,"December 17, 1999",2480000
 Mario Tennis,N64,Camelot Software Planning,Nintendo,"July 21, 2000",2320000
 Star Wars: Rogue Squadron,N64,Factor 5LucasArts,Nintendo,"December 7, 1998",2170000
-1080° Snowboarding †,N64,Nintendo EAD,Nintendo,"February 28, 1998",2030000
+1080° Snowboarding,N64,Nintendo EAD,Nintendo,"February 28, 1998",2030000
 Excitebike 64,N64,Left Field Productions,Nintendo,"April 30, 2000",2000000
 Mario Party 3,N64,Hudson Soft,Nintendo,"December 7, 2000",1910000
 WCW/nWo Revenge,N64,AKI CorporationAsmik Ace Entertainment,THQ,"October 26, 1998",1880000
-"Hey You, Pikachu! †",N64,Ambrella,Nintendo,"December 12, 1998",1830000
+"Hey You, Pikachu!",N64,Ambrella,Nintendo,"December 12, 1998",1830000
 Kirby 64: The Crystal Shards,N64,HAL Laboratory,Nintendo,"March 24, 2000",1770000
 Cruis'n USA,N64,Williams,Nintendo,"December 3, 1996",1720000
 Tony Hawk's Pro Skater,N64,Edge of Reality,Activision,"February 29, 2000",1610000
-F-1 World Grand Prix †,N64,Paradigm Entertainment,Nintendo,"July 31, 1998",1600000
+F-1 World Grand Prix,N64,Paradigm Entertainment,Nintendo,"July 31, 1998",1600000
 Turok: Dinosaur Hunter,N64,Iguana Entertainment,Acclaim Entertainment,"March 4, 1997",1500000
 Banjo-Tooie,N64,Rare,Nintendo,"November 20, 2000",1490000
 Mario Golf,N64,Camelot Software Planning,Nintendo,"June 11, 1999",1470000
@@ -217,14 +217,14 @@ Soulcalibur II,GC,Namco,Namco,"March 27, 2003",1090000
 Star Fox: Assault,GC,Namco,Nintendo,"February 14, 2005",1060000
 Mario Superstar Baseball,GC,Namco,Nintendo,"July 21, 2005",1050000
 Sonic Gems Collection,GC,Sonic Team,Sega,"August 11, 2005",1000000
-Wii Sports †,Wii,Nintendo EAD (Group 2),Nintendo,"November 19, 2006",82900000
-Mario Kart Wii †,Wii,Nintendo EAD (Group 1),Nintendo,"April 10, 2008",37380000
-Wii Sports Resort †,Wii,Nintendo EAD (Group 2),Nintendo,"June 25, 2009",33140000
-New Super Mario Bros. Wii †,Wii,Nintendo EAD (Group 4),Nintendo,"November 12, 2009",30320000
+Wii Sports,Wii,Nintendo EAD (Group 2),Nintendo,"November 19, 2006",82900000
+Mario Kart Wii,Wii,Nintendo EAD (Group 1),Nintendo,"April 10, 2008",37380000
+Wii Sports Resort,Wii,Nintendo EAD (Group 2),Nintendo,"June 25, 2009",33140000
+New Super Mario Bros. Wii,Wii,Nintendo EAD (Group 4),Nintendo,"November 12, 2009",30320000
 Wii Play,Wii,Nintendo EAD (Group 2),Nintendo,"December 2, 2006",28020000
 Wii Fit,Wii,Nintendo EAD (Group 5),Nintendo,"December 1, 2007",22670000
 Wii Fit Plus,Wii,Nintendo EAD (Group 5),Nintendo,"October 1, 2009",21130000
-Super Smash Bros. Brawl,Wii,Sora Ltd.ad hoc development team[c],Nintendo,"January 31, 2008",13320000
+Super Smash Bros. Brawl,Wii,Sora Ltd.ad hoc development team,Nintendo,"January 31, 2008",13320000
 Super Mario Galaxy,Wii,Nintendo EAD (Group 1),Nintendo,"November 1, 2007",12800000
 Just Dance 3,Wii,Ubisoft Paris,Ubisoft,"October 7, 2011",9920000
 Wii Party,Wii,Nd CubeNintendo SPD (Group 4),Nintendo,"July 8, 2010",9350000
@@ -267,7 +267,7 @@ Carnival Games,Wii,Cat Daddy Games,Global Star Software,"August 27, 2007",150000
 Metroid Prime 3: Corruption,Wii,Retro StudiosNintendo,Nintendo,"August 27, 2007",1410000
 Guitar Hero World Tour,Wii,Vicarious Visions,Activision,"October 26, 2008",1330000
 Resident Evil: The Umbrella Chronicles,Wii,CapcomCavia,JP/NA/EU: CapcomAU: Nintendo Australia,"November 13, 2007",1300000
-Wii Play: Motion,Wii,Various[d],Nintendo,"June 13, 2011",1260000
+Wii Play: Motion,Wii,Various,Nintendo,"June 13, 2011",1260000
 PokéPark Wii: Pikachu's Adventure,Wii,Creatures Inc.,NintendoThe Pokémon Company,"December 5, 2009",1250000
 Rayman Raving Rabbids,Wii,Ubisoft Montpellier,Ubisoft,"November 19, 2006",1200000
 We Ski,Wii,Bandai Namco Games,Bandai Namco Games,"January 31, 2008",1200000
@@ -279,28 +279,28 @@ Call of Duty: World at War,Wii,Treyarch,Activision,"November 10, 2008",1000000
 Red Steel,Wii,Ubisoft Paris,Ubisoft,"November 19, 2006",1000000
 Rock Band,Wii,Pi Studios,MTV GamesElectronic Arts,"June 22, 2008",1000000
 Zumba Fitness,Wii,Pipeworks Software,Majesco Entertainment505 Games,"November 18, 2010",1000000
-Super Mario Bros. 3[e],Wii,Nintendo EAD,Nintendo,"November 5, 2007",1000000
+Super Mario Bros. 3,Wii,Nintendo EAD,Nintendo,"November 5, 2007",1000000
 Game Party 2,Wii,FarSight Studios,Midway Games,"October 6, 2008",1000000
-Mario Kart 8 † *,WiiU,Nintendo EAD,Nintendo,"May 29, 2014",8460000
-Super Mario 3D World † *,WiiU,Nintendo EAD1-Up Studio,Nintendo,"November 21, 2013",5890000
-New Super Mario Bros. U † *,WiiU,Nintendo EAD,Nintendo,"November 18, 2012",5820000
-Super Smash Bros. for Wii U †,WiiU,Sora Ltd.Bandai Namco Entertainment,Nintendo,"November 21, 2014",5380000
-Nintendo Land †,WiiU,Nintendo EAD,Nintendo,"November 18, 2012",5210000
-Splatoon †,WiiU,Nintendo EAD,Nintendo,"May 28, 2015",4950000
-Super Mario Maker † #,WiiU,Nintendo EAD,Nintendo,"September 11, 2015",4019999
-New Super Luigi U † *,WiiU,Nintendo EAD,Nintendo,"June 19, 2013[b]",3070000
-The Legend of Zelda: The Wind Waker HD †,WiiU,Nintendo EAD,Nintendo,"September 20, 2013",2370000
+Mario Kart 8,WiiU,Nintendo EAD,Nintendo,"May 29, 2014",8460000
+Super Mario 3D World,WiiU,Nintendo EAD1-Up Studio,Nintendo,"November 21, 2013",5890000
+New Super Mario Bros. U,WiiU,Nintendo EAD,Nintendo,"November 18, 2012",5820000
+Super Smash Bros. for Wii U,WiiU,Sora Ltd.Bandai Namco Entertainment,Nintendo,"November 21, 2014",5380000
+Nintendo Land,WiiU,Nintendo EAD,Nintendo,"November 18, 2012",5210000
+Splatoon,WiiU,Nintendo EAD,Nintendo,"May 28, 2015",4950000
+Super Mario Maker,WiiU,Nintendo EAD,Nintendo,"September 11, 2015",4019999
+New Super Luigi U,WiiU,Nintendo EAD,Nintendo,"June 19, 2013",3070000
+The Legend of Zelda: The Wind Waker HD,WiiU,Nintendo EAD,Nintendo,"September 20, 2013",2370000
 Mario Party 10,WiiU,NDcubeNintendo SPD,Nintendo,"March 12, 2015",2270000
-Donkey Kong Country: Tropical Freeze * #,WiiU,Retro Studios,Nintendo,"February 21, 2014",2020000
-Wii Party U †,WiiU,NDcubeNintendo SPD,Nintendo,"October 25, 2013",1790000
-The Legend of Zelda: Breath of the Wild *,WiiU,Nintendo EPD,Nintendo,"March 3, 2017",1700000
-Yoshi's Woolly World #,WiiU,Good-Feel,Nintendo,"June 25, 2015",1570000
-Captain Toad: Treasure Tracker * #,WiiU,Nintendo EAD,Nintendo,"November 13, 2014",1370000
-Pikmin 3 *,WiiU,Nintendo EAD,Nintendo,"July 13, 2013",1280000
+Donkey Kong Country: Tropical Freeze,WiiU,Retro Studios,Nintendo,"February 21, 2014",2020000
+Wii Party U,WiiU,NDcubeNintendo SPD,Nintendo,"October 25, 2013",1790000
+The Legend of Zelda: Breath of the Wild,WiiU,Nintendo EPD,Nintendo,"March 3, 2017",1700000
+Yoshi's Woolly World,WiiU,Good-Feel,Nintendo,"June 25, 2015",1570000
+Captain Toad: Treasure Tracker,WiiU,Nintendo EAD,Nintendo,"November 13, 2014",1370000
+Pikmin 3,WiiU,Nintendo EAD,Nintendo,"July 13, 2013",1280000
 The Legend of Zelda: Twilight Princess HD,WiiU,Tantalus Media,Nintendo,"March 4, 2016",1170000
-Lego City Undercover *,WiiU,TT Fusion,Nintendo,"March 18, 2013",1150000
-Hyrule Warriors * #,WiiU,Omega ForceTeam Ninja,JP: Koei TecmoWW: Nintendo,"August 14, 2014",1000000
-Pokkén Tournament † *,WiiU,Bandai Namco Studios,JP: The Pokémon CompanyWW: Nintendo,"March 18, 2016",1000000
+Lego City Undercover,WiiU,TT Fusion,Nintendo,"March 18, 2013",1150000
+Hyrule Warriors,WiiU,Omega ForceTeam Ninja,JP: Koei TecmoWW: Nintendo,"August 14, 2014",1000000
+Pokkén Tournament,WiiU,Bandai Namco Studios,JP: The Pokémon CompanyWW: Nintendo,"March 18, 2016",1000000
 Mario Kart 8 Deluxe,Switch,Nintendo EPD,Nintendo,"April 28, 2017",60580000
 Animal Crossing: New Horizons,Switch,Nintendo EPD,Nintendo,"March 20, 2020",44790000
 Super Smash Bros. Ultimate,Switch,Bandai Namco StudiosSora Ltd.,Nintendo,"December 7, 2018",33670000
@@ -355,7 +355,7 @@ Pikmin 3 Deluxe,Switch,Eighting,Nintendo,"October 30, 2020",2400000
 Captain Toad: Treasure Tracker,Switch,Nintendo EPD,Nintendo,"July 13, 2018",2350000
 Taiko no Tatsujin: Drum 'n' Fun!,Switch,Bandai Namco Studios,Bandai Namco Entertainment,"July 19, 2018",2270000
 Octopath Traveler,Switch,Square EnixAcquire,JP: Square EnixNA/PAL: Nintendo,"July 13, 2018",2160000
-Mario + Rabbids Kingdom Battle,Switch,Ubisoft ParisUbisoft Milan,NA/PAL: UbisoftJP/KOR: Nintendo[28],"August 29, 2017",2000000
+Mario + Rabbids Kingdom Battle,Switch,Ubisoft ParisUbisoft Milan,NA/PAL: UbisoftJP/KOR: Nintendo,"August 29, 2017",2000000
 Pokémon Mystery Dungeon: Rescue Team DX,Switch,Spike Chunsoft,Nintendo,"March 6, 2020",1990000
 Big Brain Academy: Brain vs. Brain,Switch,"Nintendo EPD, indieszero",Nintendo,"December 3, 2021",1940000
 Xenoblade Chronicles: Definitive Edition,Switch,Monolith Soft,Nintendo,"May 29, 2020",1880000
